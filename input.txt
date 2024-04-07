@@ -1,0 +1,4 @@
+3
+kredit1/1234/doll/3/
+kredit2/3456/rub/5/
+kredit3/105/tenge/10/
