@@ -1,0 +1,3 @@
+name:kredit3   summa:105   valuta:tenge   percent:10
+name:kredit1   summa:1234   valuta:doll   percent:3
+name:kredit2   summa:3456   valuta:rub   percent:5
